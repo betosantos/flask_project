@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<h2>Hello, Olá José Commit usando Vscode !!</h2>"
+    return "<h2>Hello, Olá José Commit usando Vscode, mais fácil!!</h2>"
 
 
 
